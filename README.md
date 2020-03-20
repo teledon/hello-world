@@ -1,2 +1,4 @@
 # hello-world
-My first GitHup repo
+My first GitHub repo
+
+I'm the teacher!
